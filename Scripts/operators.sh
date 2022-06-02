@@ -7,5 +7,3 @@ echo $((100*10))
 echo $((A*B))
 echo $((A+B))
 
-sudo apt-get update
-sudo apt-get upgrade
